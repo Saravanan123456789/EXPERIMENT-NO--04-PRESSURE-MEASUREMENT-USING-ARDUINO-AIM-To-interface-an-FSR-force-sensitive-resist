@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
+# EXPERIMENT-NO--03-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
 
 ## AIM: 
@@ -139,8 +139,7 @@ image
 
 
 
-
-![Screenshot (23)](https://user-images.githubusercontent.com/127467412/236831544-880669f6-416e-46ca-8186-0919650ebeef.png)
+![Screenshot (149)](https://github.com/Saravanan123456789/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/127467412/84611969-d722-4705-8ef0-f09e37ecb57b)
 
 
 
